@@ -5,7 +5,7 @@ This repository is improved for a classification problem of the MNIST dataset us
 During this study, a transformer architecture has been utilized. A simple way of creating the model can be seen here:
 
 <a href="url">
-  <img src="https://github.com/ekaraali/Vision-Transformer/blob/main/images/ViT.png?raw=true" height="300" width="470">
+  <img src="https://github.com/ekaraali/Vision-Transformer/blob/main/images/ViT.png?raw=true" height="320" width="470">
 </a>
 
 According to this architecture, input images are divided into 7x7 pieces so that positional encoding could be applied. At the end of the pachifying step, 4 patches are expected to have for each image.
